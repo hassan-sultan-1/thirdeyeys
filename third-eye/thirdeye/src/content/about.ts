@@ -50,25 +50,27 @@ export const about = {
   ],
   team: [
     {
-      name: "[Team Member One]",
+      name: "[HASSAN SULTAN]",
       role: "[Founder & Security Lead]",
-      bio: "[Short bio — background in cybersecurity and information assurance, what they focus on for clients.]",
+      bio: "[Cybersecurity and Information Assurance professional focused on helping clients protect their digital assets, secure systems and networks, identify vulnerabilities, and strengthen overall security and risk management..]",
       photo: "",
       initials: "T1",
-      links: [{ label: "LinkedIn", href: "[https://linkedin.com/in/profile]" }],
+      links: [{ label: "LinkedIn", href: "[www.linkedin.com/in/hassan-sultan-0a67382b6]" }],
     },
     {
-      name: "[Team Member Two]",
+      name: "[ZAID AHMAD]",
       role: "[Full-Stack Developer]",
-      bio: "[Short bio — builds the websites and integrations, favourite part of the job.]",
+      bio: "[Builds websites and integrations, turning ideas into functional, user-friendly digital experiences. The favorite part of the job is bringing concepts to life through clean code and seamless technology.
+]",
       photo: "",
       initials: "T2",
       links: [{ label: "LinkedIn", href: "[https://linkedin.com/in/profile]" }],
     },
     {
-      name: "[Team Member Three]",
+      name: "[HASHIR KHAN]",
       role: "[AI & Automation Engineer]",
-      bio: "[Short bio — designs the assistants and automations, how they keep AI answers accurate.]",
+      bio: "[Designs AI assistants and automations, with a focus on making AI responses accurate, reliable, and useful through smart workflows and careful validation.
+.]",
       photo: "",
       initials: "T3",
       links: [{ label: "LinkedIn", href: "[https://linkedin.com/in/profile]" }],
