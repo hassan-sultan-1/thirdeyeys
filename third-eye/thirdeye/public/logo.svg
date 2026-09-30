@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="48" viewBox="0 0 200 48" role="img" aria-label="Third Eye">
+  <defs>
+    <linearGradient id="g" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14E0C8"/>
+      <stop offset="1" stop-color="#7C6CFF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#g)" stroke-linejoin="round">
+    <path d="M24 3.5 43.2 14v20L24 44.5 4.8 34V14L24 3.5Z" stroke-width="2.4"/>
+    <path d="M12 24s5-7.5 12-7.5S36 24 36 24s-5 7.5-12 7.5S12 24 12 24Z" stroke-width="2.2"/>
+  </g>
+  <circle cx="24" cy="24" r="3.6" fill="url(#g)"/>
+  <text x="56" y="31" font-family="Space Grotesk, Segoe UI, sans-serif" font-size="20" font-weight="700" fill="#071324">Third<tspan fill="#03BDA8">Eye</tspan></text>
+</svg>
